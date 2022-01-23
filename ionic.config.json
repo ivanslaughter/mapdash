@@ -1,0 +1,7 @@
+{
+  "name": "mapdash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
